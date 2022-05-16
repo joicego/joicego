@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joicego
-- 👀 I’m interested in LINUX, SQL, NEW PROJECTS
+- 👀 I’m interested in LINUX, SQL, NEW PROJECTS, ZABBIX, OBSERVIUM, LIBRENMS, UNMS UBIQUITI
 - 🌱 I’m currently learning REST API
 
 <!---
